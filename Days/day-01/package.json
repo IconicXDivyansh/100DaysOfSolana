@@ -1,0 +1,14 @@
+{
+	"type": "module",
+	"scripts": {
+		"start": "tsx src/create-wallet.ts",
+		"check-balance": "tsx src/verify-balance.ts"
+	},
+	"dependencies": {
+		"@solana/kit": "^6.8.0"
+	},
+	"devDependencies": {
+		"@types/node": "^25.6.0",
+		"tsx": "^4.21.0"
+	}
+}
