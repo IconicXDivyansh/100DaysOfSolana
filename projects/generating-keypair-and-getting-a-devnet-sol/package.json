@@ -1,0 +1,26 @@
+{
+  "name": "generating-keypair-and-getting-a-devnet-sol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^12.9.1",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "dependencies": {
+    "@solana/kit": "^8.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4"
+  }
+}

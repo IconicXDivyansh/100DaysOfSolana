@@ -1,27 +1,31 @@
-# Node modules
+# JavaScript dependencies and generated output
 node_modules/
-
-# dotenv files
-.env
-.env.*
-
-# build outputs
 dist/
 build/
-out/
+.next/
+.vite/
+coverage/
+*.tsbuildinfo
 
-# IDE/editor configs
-.vscode/
-.idea/
+# Rust / Anchor generated output and local validator state
+target/
+.anchor/
+test-ledger/
 
-# macOS
+# Environment secrets; placeholder examples may be committed
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local wallet material: store all keypair JSON files in these directories
+wallets/
+keypairs/
+secrets/
+*-keypair.json
+id.json
+
+# Logs and operating system files
+*.log
 .DS_Store
-
-# lockfiles (optional to ignore)
-# package-lock.json
-# pnpm-lock.yaml
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+Thumbs.db
