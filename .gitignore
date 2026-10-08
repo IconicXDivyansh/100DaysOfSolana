@@ -24,6 +24,7 @@ keypairs/
 secrets/
 *-keypair.json
 id.json
+wallet.json
 
 # Logs and operating system files
 *.log

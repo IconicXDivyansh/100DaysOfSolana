@@ -69,7 +69,7 @@ request. No specific runtime errors were reported in this learning log.
 - The saved terminal screenshot shows the balance script returning **1 SOL**
   for the configured devnet address.
 
-![Day 1 terminal output showing a devnet balance of 1 SOL](Screenshot_2026-10-07_15-33-34.png)
+![Day 1 terminal output showing a devnet balance of 1 SOL](day-1.png)
 
 ## Reflection
 

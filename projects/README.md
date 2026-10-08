@@ -1,5 +1,10 @@
 # Projects
 
+| Project | Learning log |
+| --- | --- |
+| [Wallet generation and devnet funding](generating-keypair-and-getting-a-devnet-sol/README.md) | [Day 001](../days/day-001/README.md) |
+| [Persistent wallet](persistenting-keys-in-file/README.md) | [Day 002](../days/day-002/README.md) |
+
 Use this directory for code that evolves across multiple challenges. Create each
 project only when you need it. Possible names include `wallet-dashboard`,
 `token-lab`, `anchor-lab`, `solana-agent`, and `capstone`.

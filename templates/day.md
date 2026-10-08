@@ -32,6 +32,9 @@ in a local `assets/` folder.
 
 What can I explain without the tutorial? What remains unclear?
 
+Discuss the day's goal and main lessons before signing off. Record questions
+from that conversation and anything to revisit on the next day.
+
 ## Completion
 
 - [ ] Exercise or writing task completed and checked

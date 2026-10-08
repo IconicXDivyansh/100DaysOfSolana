@@ -2,6 +2,9 @@
 
 My learning journal and projects while following [MLH's 100 Days of Solana challenges](https://www.mlh.com/events/100-days-of-solana/challenges).
 
+Completed days: **2 / 100**. Latest entry: [Day 002 — Persistent wallet](days/day-002/README.md).
+See [the progress tracker](PROGRESS.md) for daily notes and evidence.
+
 ## Repository layout
 
 ```text
@@ -9,10 +12,12 @@ My learning journal and projects while following [MLH's 100 Days of Solana chall
 ├── README.md                # Overview and learning roadmap
 ├── PROGRESS.md              # Completed days and evidence
 ├── days/
-│   └── day-001/
-│       └── README.md        # Challenge, notes, commands, and results
+│   ├── day-001/             # Wallet generation and devnet funding
+│   └── day-002/             # Persistent wallet and signer concepts
 ├── projects/
-│   └── README.md            # Guidelines for projects spanning several days
+│   ├── README.md            # Project guidelines
+│   ├── generating-keypair-and-getting-a-devnet-sol/
+│   └── persistenting-keys-in-file/
 ├── notes/
 │   └── README.md            # Reusable explanations and troubleshooting
 ├── templates/
@@ -53,9 +58,9 @@ for each day's instructions.
 
 1. Open the next challenge and create its day folder from [the template](templates/day.md).
 2. Build the exercise, recording the commands needed to reproduce it.
-3. Record what worked, one lesson, and any unanswered questions.
+3. Discuss the day's goal and learnings, then record what worked and any unanswered questions.
 4. Save shareable evidence, such as a screenshot or public devnet transaction link.
-5. Update [the progress tracker](PROGRESS.md) and commit the day's work.
+5. Update [the progress tracker](PROGRESS.md). Review changes before committing or pushing.
 
 Example commit: `day 001: generate a wallet and verify devnet funding`.
 Writing and sharing challenges count as learning days too; link their drafts or
