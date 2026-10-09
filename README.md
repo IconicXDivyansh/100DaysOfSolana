@@ -2,7 +2,7 @@
 
 My learning journal and projects while following [MLH's 100 Days of Solana challenges](https://www.mlh.com/events/100-days-of-solana/challenges).
 
-Completed days: **2 / 100**. Latest entry: [Day 002 — Persistent wallet](days/day-002/README.md).
+Completed days: **3 / 100**. Latest entry: [Day 003 — SOL and lamports](days/day-003/README.md).
 See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 
 ## Repository layout
@@ -13,13 +13,15 @@ See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 ├── PROGRESS.md              # Completed days and evidence
 ├── days/
 │   ├── day-001/             # Wallet generation and devnet funding
-│   └── day-002/             # Persistent wallet and signer concepts
+│   ├── day-002/             # Persistent wallet and signer concepts
+│   └── day-003/             # SOL and lamport balance comparison
 ├── projects/
 │   ├── README.md            # Project guidelines
 │   ├── generating-keypair-and-getting-a-devnet-sol/
 │   └── persistenting-keys-in-file/
 ├── notes/
-│   └── README.md            # Reusable explanations and troubleshooting
+│   ├── README.md            # Reusable explanations and troubleshooting
+│   └── sol-and-lamports.md  # Units, conversions, and precision
 ├── templates/
 │   └── day.md               # Copy this when starting a new day
 └── .gitignore
