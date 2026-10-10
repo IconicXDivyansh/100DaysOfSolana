@@ -2,7 +2,7 @@
 
 My learning journal and projects while following [MLH's 100 Days of Solana challenges](https://www.mlh.com/events/100-days-of-solana/challenges).
 
-Completed days: **4 / 100**. Latest entry: [Day 004 — Connect a browser wallet](days/day-004/README.md).
+Completed days: **5 / 100**. Latest entry: [Day 005 — Explore different wallet types](days/day-005/README.md).
 See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 
 ## Repository layout
@@ -15,7 +15,8 @@ See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 │   ├── day-001/             # Wallet generation and devnet funding
 │   ├── day-002/             # Persistent wallet and signer concepts
 │   ├── day-003/             # SOL and lamport balance comparison
-│   └── day-004/             # Browser wallet connection and balance
+│   ├── day-004/             # Browser wallet connection and balance
+│   └── day-005/             # CLI, browser, and mobile wallet comparison
 ├── projects/
 │   ├── README.md            # Project guidelines
 │   ├── generating-keypair-and-getting-a-devnet-sol/
@@ -24,7 +25,8 @@ See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 ├── notes/
 │   ├── README.md            # Reusable explanations and troubleshooting
 │   ├── sol-and-lamports.md  # Units, conversions, and precision
-│   └── browser-wallets.md   # Discovery, permissions, and RPC reads
+│   ├── browser-wallets.md   # Discovery, permissions, and RPC reads
+│   └── wallet-types.md      # Storage, recovery, and use cases
 ├── templates/
 │   └── day.md               # Copy this when starting a new day
 └── .gitignore
