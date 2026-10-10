@@ -2,6 +2,8 @@
 
 - [SOL and lamports](sol-and-lamports.md): conversion, balance units, and numeric
   precision, introduced on [Day 003](../days/day-003/README.md).
+- [Browser wallets](browser-wallets.md): wallet discovery, connection permission,
+  and balance reads, introduced on [Day 004](../days/day-004/README.md).
 
 Keep explanations you will reuse across challenges here. Add files as you learn,
 for example `glossary.md`, `accounts.md`, `transactions.md`, or `troubleshooting.md`.

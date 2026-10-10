@@ -1,0 +1,29 @@
+{
+  "name": "connecting-browser-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.10.1",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.10.1",
+  "type": "module",
+  "dependencies": {
+    "@solana/kit": "^8.4.0",
+    "@wallet-standard/app": "^1.1.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
