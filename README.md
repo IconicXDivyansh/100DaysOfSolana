@@ -2,7 +2,7 @@
 
 My learning journal and projects while following [MLH's 100 Days of Solana challenges](https://www.mlh.com/events/100-days-of-solana/challenges).
 
-Completed days: **5 / 100**. Latest entry: [Day 005 — Explore different wallet types](days/day-005/README.md).
+Completed days: **10 / 100**. Latest entry: [Day 010 — Build a simple dashboard in the browser](days/day-010/README.md).
 See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 
 ## Repository layout
@@ -16,12 +16,18 @@ See [the progress tracker](PROGRESS.md) for daily notes and evidence.
 │   ├── day-002/             # Persistent wallet and signer concepts
 │   ├── day-003/             # SOL and lamport balance comparison
 │   ├── day-004/             # Browser wallet connection and balance
-│   └── day-005/             # CLI, browser, and mobile wallet comparison
+│   ├── day-005/             # CLI, browser, and mobile wallet comparison
+│   ├── day-006/             # DEV write-up on on-chain identity
+│   ├── day-007/             # Week-1 share on X
+│   ├── day-008/             # Devnet balance read reused from day 001
+│   ├── day-009/             # Five recent devnet transaction signatures
+│   └── day-010/             # Browser dashboard for balance and history
 ├── projects/
 │   ├── README.md            # Project guidelines
 │   ├── generating-keypair-and-getting-a-devnet-sol/
 │   ├── persistenting-keys-in-file/
-│   └── connecting-browser-wallet/
+│   ├── connecting-browser-wallet/
+│   └── devnet-dashboard/
 ├── notes/
 │   ├── README.md            # Reusable explanations and troubleshooting
 │   ├── sol-and-lamports.md  # Units, conversions, and precision
